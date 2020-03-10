@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TebakKata</string>
+    <string name="deskripsi_tentang">Aplikasi Permainan Tebak Kata ini dibuat oleh Daniel Anggi Permana untuk menyelesaikan Penulisan Ilmiah. Semoga dengan adanya aplikasi ini, diharapkan dapat menghibur sekaligus memberikan edukasi kepada para pengguna, sehingga pengguna dapat mengetahui dan menambah wawasan tentang sejarah dan budaya Indonesia. Game edukasi ini dirancang agar dapat dimainkan kapan saja secara offline dan online, sehingga kalangan umum terutama anak-anak dapat memainkannya karena aman dan bermanfaat.\n\n Contact Person : danielanggipermana@gmail.com</string>
+    <string name="bantuan">Aplikasi Permainan Tebak Kata ini menyediakan sebanyak 20 kumpulan kata pada setiap tiga kategori yang bisa kamu pilih. \n\n
+    Saat bermain, kamu diberikan kesempatan sebanyak 3 kali untuk menjawab salah satu kata yang sedang ditampilkan. \n\n
+    Jika kamu berhasil menjawab salah satu kata yang diberikan, maka skor akan bertambah dan kesempatan yang tersisa akan kembali seperti semula. \n\n
+    Setelah kamu berhasil menjawab semua 20 kata yang ada, maka akan muncul kotak pesan menandakan kamu menang dengan total skor yang diperoleh. \n\n
+    Hati-hati, jika kamu gagal menjawab salah satu kata sebanyak 3 kali, maka permainan akan langsung berakhir dengan muncul kotak pesan menandakan kamu kalah dengan total skor terakhir yang diperoleh. \n\n
+    Jika kamu gagal dalam menjawab kata dan tidak tahu mengenai kata yang telah ditampilkan, maka kamu bisa menekan tombol CARI TAHU pada kotak pesan dan akan langsung menuju pencarian Google mengenai kata tersebut. \n\n
+    SELAMAT BERMAIN dan BELAJAR !!!</string>
+</resources>

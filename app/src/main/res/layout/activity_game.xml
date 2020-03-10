@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ContentDescription"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".GameActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp">
+
+        <TextView
+            android:id="@+id/cluekata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="92dp"
+            android:text="Clues Kata"
+            android:textAlignment="center"
+            android:textColor="#eeeeee"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tebakkata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="162dp"
+            android:text="Tebak Kata"
+            android:textAlignment="center"
+            android:textColor="#eeeeee"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/inputkata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:hint="Masukkan huruf disini"
+            android:layout_below="@id/jawabkata"
+            android:inputType="text"
+            android:textColor="#ca2208"
+            android:textColorHint="#ca2208"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/jawabkata"
+            android:text="TEBAK"
+            android:textColor="#ca2208"
+            android:background="#eeeeee"
+            android:textSize="20sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="225dp"
+            android:layout_marginBottom="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="200dp"
+            android:layout_marginEnd="200dp"/>
+
+        <Button
+            android:id="@+id/kataBaru"
+            android:text="KATA BARU"
+            android:textColor="#ca2208"
+            android:background="#eeeeee"
+            android:textSize="18sp"
+            android:visibility="invisible"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="225dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="200dp"
+            android:layout_marginEnd="200dp"/>
+
+        <Button
+            android:id="@+id/gameBaru"
+            android:text="PERMAINAN BARU"
+            android:textColor="#ca2208"
+            android:background="#eeeeee"
+            android:textSize="18sp"
+            android:visibility="invisible"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="225dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="200dp"
+            android:layout_marginEnd="200dp"/>
+
+        <Button
+            android:id="@+id/pilihKategori"
+            android:text="KATEGORI"
+            android:textColor="#eeeeee"
+            android:background="#ca2208"
+            android:textSize="20sp"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/inputkata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="200dp"
+            android:layout_marginEnd="200dp"/>
+
+        <Button
+            android:id="@+id/menuUtama"
+            android:text="MENU"
+            android:textColor="#eeeeee"
+            android:textSize="20sp"
+            android:background="#ca2208"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/pilihKategori"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="200dp"
+            android:layout_marginEnd="200dp"/>
+
+        <TextView
+            android:id="@+id/skorkata"
+            android:textColor="#eeeeee"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score = 0" />
+
+        <ImageView
+            android:id="@+id/nyawa3"
+            android:src="@drawable/indonesia"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+
+        <ImageView
+            android:id="@+id/nyawa2"
+            android:src="@drawable/indonesia"
+            android:layout_centerHorizontal="true"
+            android:layout_toLeftOf="@id/nyawa3"
+            android:layout_toStartOf="@id/nyawa3"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"/>
+
+        <ImageView
+            android:id="@+id/nyawa1"
+            android:src="@drawable/indonesia"
+            android:layout_centerHorizontal="true"
+            android:layout_toLeftOf="@id/nyawa2"
+            android:layout_toStartOf="@id/nyawa2"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kumpulanpahlawan">
+        <item>ABDUL WAHID HASYIM</item>
+        <item>DEWI SARTIKA</item>
+        <item>DIPONEGORO</item>
+        <item>DJUANDA KARTAWIDJAJA</item>
+        <item>ERNEST DOUWES DEKKER</item>
+        <item>FATMAWATI</item>
+        <item>FRANS KAISIEPO</item>
+        <item>GATOT SOEBROTO</item>
+        <item>HASANUDDIN</item>
+        <item>I GUSTI NGURAH RAI</item>
+        <item>ISMAIL MARZUKI</item>
+        <item>KARTINI</item>
+        <item>KI HADJAR DEWANTARA</item>
+        <item>MOHAMMAD HATTA</item>
+        <item>NANI WARTABONE</item>
+        <item>PATTIMURA</item>
+        <item>SOEDIRMAN</item>
+        <item>SOEKARNO</item>
+        <item>TUANKU IMAM BONJOL</item>
+        <item>WAGE RUDOLF SOEPRATMAN</item>
+    </string-array>
+
+    <string-array name="kumpulancluepahlawan">
+        <item>Menteri Agama Indonesia Pertama</item>
+        <item>Tokoh Perintis Pendidikan Kaum Wanita</item>
+        <item>Pemimpin Perang Jawa melawan Pemerintahan Hindia Belanda</item>
+        <item>Pencetus Deklarasi Djuanda</item>
+        <item>Tokoh Tiga Serangkai Pendiri Indische Partij</item>
+        <item>Penjahit Bendera Pusaka Sang Saka Merah Putih</item>
+        <item>Pahlawan Nasional Indonesia dari Papua</item>
+        <item>Tokoh Pelopor Akademi Angkatan Bersenjata Republik Indonesia</item>
+        <item>Ayam Jantan dari Timur</item>
+        <item>Pahlawan Nasional Indonesia dari Bali</item>
+        <item>Tokoh Pembuat Lagu untuk Perjuangan Indonesia</item>
+        <item>Tokoh Emansipasi Wanita</item>
+        <item>Pencipta Semboyan Tut Wuri Handayani</item>
+        <item>Wakil Presiden Indonesia Pertama</item>
+        <item>Proklamator Kemerdekaan Indonesia di Gorontalo</item>
+        <item>Tokoh Pejuang Hak Rakyat Maluku</item>
+        <item>Panglima Besar TNI Pertama</item>
+        <item>Presiden Indonesia Pertama</item>
+        <item>Tokoh Ulama Pemimpin Perang Padri</item>
+        <item>Pencipta Lagu Indonesia Raya</item>
+    </string-array>
+</resources>

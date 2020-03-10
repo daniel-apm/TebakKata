@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kumpulankebudayaan">
+        <item>AMPAR AMPAR PISANG</item>
+        <item>ANAK KAMBING SAYA</item>
+        <item>AYAM DEN LAPEH</item>
+        <item>AYO MAMA</item>
+        <item>BURUNG KAKAK TUA</item>
+        <item>CIK CIK PERIUK</item>
+        <item>GUNDUL PACUL</item>
+        <item>KICIR KICIR</item>
+        <item>RUMAH BADUY</item>
+        <item>RUMAH GADANG</item>
+        <item>RUMAH GAPURA</item>
+        <item>RUMAH HONAI</item>
+        <item>RUMAH JOGLO</item>
+        <item>RUMAH KEBAYA</item>
+        <item>TARI JAIPONG</item>
+        <item>TARI KECAK</item>
+        <item>TARI LILIN</item>
+        <item>TARI SAMAN</item>
+        <item>TARI SELAMAT DATANG</item>
+        <item>TARI SERIMPI</item>
+    </string-array>
+
+    <string-array name="kumpulancluekebudayaan">
+        <item>Lagu Daerah Kalimantan Selatan</item>
+        <item>Lagu Daerah Nusa Tenggara Timur</item>
+        <item>Lagu Daerah Sumatera Barat</item>
+        <item>Lagu Daerah Maluku</item>
+        <item>Lagu Daerah Maluku Utara</item>
+        <item>Lagu Daerah Kalimantan Barat</item>
+        <item>Lagu Daerah Jawa Tengah</item>
+        <item>Lagu Daerah DKI Jakarta</item>
+        <item>Rumah Adat Banten</item>
+        <item>Rumah Adat Sumatera Barat</item>
+        <item>Rumah Adat Bali</item>
+        <item>Rumah Adat Papua</item>
+        <item>Rumah Adat Daerah Istimewa Yogyakarta</item>
+        <item>Rumah Adat DKI Jakarta</item>
+        <item>Tari Tradisional Jawa Barat</item>
+        <item>Tari Tradisional Bali</item>
+        <item>Tari Tradisional Sumatera Barat</item>
+        <item>Tari Tradisional Nanggroe Aceh Darussalam</item>
+        <item>Tari Tradisional Papua</item>
+        <item>Tari Tradisional Daerah Istimewa Yogyakarta</item>
+    </string-array>
+</resources>

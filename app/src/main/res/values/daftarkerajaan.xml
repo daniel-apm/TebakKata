@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kumpulankerajaan">
+        <item>ACEH</item>
+        <item>BANJAR</item>
+        <item>BANTEN</item>
+        <item>BIMA</item>
+        <item>DEMAK</item>
+        <item>JANGGALA</item>
+        <item>KALINGGA</item>
+        <item>KEDIRI</item>
+        <item>KUTAI</item>
+        <item>MAJAPAHIT</item>
+        <item>MAKASSAR</item>
+        <item>MATARAM</item>
+        <item>MEDANG</item>
+        <item>PAJANG</item>
+        <item>SAMUDERA PASAI</item>
+        <item>SINGASARI</item>
+        <item>SRIWIJAYA</item>
+        <item>TARUMANEGARA</item>
+        <item>TERNATE</item>
+        <item>TIDORE</item>
+    </string-array>
+
+    <string-array name="kumpulancluekerajaan">
+        <item>Kerajaan Islam yang pernah dipimpin oleh Sultan Iskandar Muda</item>
+        <item>Kerajaan Islam yang pernah berdiri di Kalimantan Selatan</item>
+        <item>Kerajaan Islam yang pernah dipimpin oleh Sultan Ageng Tirtayasa</item>
+        <item>Kerajaan Islam yang terletak di Nusa Tenggara Barat</item>
+        <item>Kerajaan Islam pertama dan terbesar di pulau Jawa</item>
+        <item>Salah satu pecahan Kerajaan yang dipimpin oleh Airlangga</item>
+        <item>Kerajaan bercorak Buddha yang muncul di Jawa Tengah</item>
+        <item>Kerajaan bercorak Hindu yang pernah dipimpin oleh Jayabaya</item>
+        <item>Kerajaan bercorak Hindu di Nusantara yang memiliki sejarah tertua</item>
+        <item>Kerajaan Hindu yang pernah menguasai Nusantara</item>
+        <item>Kerajaan Islam yang pernah disebut sebagai Gowa Tallo</item>
+        <item>Kerajaan Islam yang pernah dipimpin oleh Sultan Agung Hanyokrokusumo</item>
+        <item>Kerajaan bercorak Hindu yang berdiri di Jawa Tengah pada abad ke 8</item>
+        <item>Kerajaan Islam yang menjadi kelanjutan dari Kerajaan Demak</item>
+        <item>Kerajaan Islam pertama yang pernah berdiri di Aceh</item>
+        <item>Kerajaan bercorak Hindu di Jawa Timur yang didirikan oleh Ken Arok</item>
+        <item>Kerajaan Nusantara pertama yang bercorak Buddha </item>
+        <item>Kerajaan Hindu di Jawa Barat yang pernah dipimpin oleh Purnawarman</item>
+        <item>Kerajaan Islam tertua di Kepulauan Maluku</item>
+        <item>Kerajaan Islam yang pernah pecah dan bersatu kembali di Maluku</item>
+    </string-array>
+</resources>
